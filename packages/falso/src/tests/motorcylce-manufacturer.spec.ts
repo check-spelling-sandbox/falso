@@ -1,7 +1,7 @@
-import { randMotorcylceManufacturer } from '../lib/motorcycle-manufacturer';
+import { randMotorcycleManufacturer } from '../lib/motorcycle-manufacturer';
 
-describe('motorcylceManufacturer', () => {
+describe('motorcycleManufacturer', () => {
   it('should retrieve one motorcycle manufacturer', () => {
-    expect(typeof randMotorcylceManufacturer()).toBe('string');
+    expect(typeof randMotorcycleManufacturer()).toBe('string');
   });
 });

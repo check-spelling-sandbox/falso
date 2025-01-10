@@ -109,7 +109,7 @@ export { randMask } from './lib/mask';
 export { randMimeType } from './lib/mime-type';
 export { randMonth } from './lib/month';
 export {
-  randMotorcylceManufacturer,
+  randMotorcycleManufacturer,
   randMotorcycleManufacturer,
 } from './lib/motorcycle-manufacturer';
 export { randMovie } from './lib/movie';
